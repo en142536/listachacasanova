@@ -79,7 +79,7 @@
   <main>
     <div class="data-input">
       <p><strong>Data do Chá:</strong></p>
-      <input type="text" placeholder="Escolha a data (ex: Agosto de 2025)">
+      <p><strong>Data do Chá:</strong> Outubro de 2025</p>
     </div>
 
     <section>
